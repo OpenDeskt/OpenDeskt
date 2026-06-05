@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+OpenDesk+%F0%9F%96%A5%EF%B8%8F;Linux+%26+Open+Source+Enthusiast;Always+learning%2C+always+building." alt="Typing SVG" />
+</h1>
 
-<!--
-**OpenDeskt/OpenDeskt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.youtube.com/@OpenDeskTec">
+    <img src="https://img.shields.io/badge/YouTube-@OpenDeskTec-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Portugal-009c3b?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```bash
+$ whoami
+> OpenDesk — Linux & Open Source enthusiast based in Portugal 🇵🇹
+> Exploring the open-source ecosystem, one commit at a time.
+> Tech YouTube: @OpenDeskTec
+```
+
+---
+
+### 🖥️ About Me
+
+> Passionate about **Linux**, **open-source software**, and everything that runs under the hood.
+> I believe in the power of community-driven technology and love sharing what I learn.
+
+- 🐧 Daily driving Linux
+- 🔧 Interested in system customization, open-source tools, and tech exploration
+- 📺 Sharing knowledge at [@OpenDeskTec](https://www.youtube.com/@OpenDeskTec)
+- 📍 Based in **Portugal**
+
+---
+
+### 🌱 Currently Exploring
+
+- Open-source tools & software
+- Linux distributions and customization
+- Tech content creation
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OpenDeskt&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39D353&icon_color=39D353&text_color=c9d1d9" />
+</p>
+
+<p align="center">
+  <em>"The best way to learn is to build, break, and build again."</em>
+</p>
