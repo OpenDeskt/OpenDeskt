@@ -12,7 +12,7 @@
 ```bash
 $ whoami
 > OpenDesk — Linux & Open Source enthusiast
-> Exploring the open-source ecosystem, one commit at a time.
+> Exploring the open-source ecosystem
 ```
 
 ---
