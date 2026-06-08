@@ -38,9 +38,5 @@ $ whoami
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OpenDeskt&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39D353&icon_color=39D353&text_color=c9d1d9" />
-</p>
-
-<p align="center">
   <em>"The best way to learn is to build, break, and build again."</em>
 </p>
