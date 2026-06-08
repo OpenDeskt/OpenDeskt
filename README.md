@@ -13,7 +13,6 @@
 $ whoami
 > OpenDesk — Linux & Open Source enthusiast
 > Exploring the open-source ecosystem, one commit at a time.
-> Tech YouTube: @OpenDeskTec
 ```
 
 ---
